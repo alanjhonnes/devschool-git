@@ -9,3 +9,5 @@ Tente adicionar seu nome na linha abaixo, adicionar e comitar o arquivo:
 Ayrton Rodrigues
 
 Luis Barbosa
+
+Regata
